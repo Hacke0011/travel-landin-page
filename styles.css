@@ -60,7 +60,9 @@ img{
   width: 100%;
   display: flex;
 }
-
+html,body{
+    scroll-behavior: smooth;
+}
 
 
 body{
